@@ -2,7 +2,7 @@
   "name": "react-myordor",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://cool-g.github.io/react-reportPage",
+  "homepage": "./",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
